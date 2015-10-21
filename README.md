@@ -6,7 +6,7 @@ In this unit, we'll be switching gears to learn jQuery and JavaScript. jQuery is
 
 ##Some Things You Should Know
 
-You're going to be tackling the lesson `jQuery Basketballers`. If you finish this, feel free to tackle any of the labs or read through the jQuery resources.
+You're going to be tackling the lesson `jQuery Basketballers`. If you finish this, feel free to tackle any of the labs or read through the jQuery resources. If you're already familiar with jQuery, take a stab at `Advanced Lab: jQUery Selectors Practice`.
 
 ## Share Share Share!
 
