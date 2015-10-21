@@ -1,6 +1,6 @@
 # Let's Get Coding!
 
-<img src="https://s3.amazonaws.com/after-school-assets/typing-fast.gifgit ">
+<img src="https://s3.amazonaws.com/after-school-assets/typing-fast.gif ">
 
 In this unit, we'll be switching gears to learn jQuery and JavaScript. jQuery is a JavaScript library, and is a great way to add animations and cool effects to your website.
 
