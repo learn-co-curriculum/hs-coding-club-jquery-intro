@@ -10,7 +10,7 @@ You're going to be tackling the lesson `jQuery Basketballers`. If you finish thi
 
 ## Share Share Share!
 
-Once you've gotten the animation to work, take a screenshot and show it off to your friends with #flatironcodeclub and #jquerybasketballers.
+Once you've gotten the animation to work, take a screenshot and show it off to your friends with \#flatironcodeclub and \#jquerybasketballers. If you finish the lab, feel free to share with \#jquerygameshow
 
 
 ## Tech News
