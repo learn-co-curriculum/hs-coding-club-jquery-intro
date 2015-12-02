@@ -16,3 +16,5 @@ Once you've gotten the animation to work, take a screenshot and show it off to y
 ## Tech News
 
 If you're participating in the Tech News talks each week, take a minute to pull up the headlines and discuss the questions with the other club members.
+
+<a href='https://learn.co/lessons/hs-coding-club-jquery-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
