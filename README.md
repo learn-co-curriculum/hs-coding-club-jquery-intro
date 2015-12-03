@@ -13,8 +13,4 @@ You're going to be tackling the lesson `jQuery Basketballers`. If you finish thi
 Once you've gotten the animation to work, take a screenshot and show it off to your friends with \#flatironcodeclub and \#jquerybasketballers. If you finish the lab, feel free to share with \#jquerygameshow
 
 
-## Tech News
-
-If you're participating in the Tech News talks each week, take a minute to pull up the headlines and discuss the questions with the other club members.
-
 <a href='https://learn.co/lessons/hs-coding-club-jquery-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
